@@ -1,4 +1,6 @@
 
 print("Hello")
 
-print("Hello from Branch2")
+
+print("Hello Harsh From branch1")
+>>>>>>> branch1
